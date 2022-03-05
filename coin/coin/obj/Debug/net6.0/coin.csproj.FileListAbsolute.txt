@@ -1,0 +1,15 @@
+C:\Users\rahul\source\repos\coin\coin\obj\Debug\net6.0\coin.csproj.AssemblyReference.cache
+C:\Users\rahul\source\repos\coin\coin\obj\Debug\net6.0\coin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahul\source\repos\coin\coin\obj\Debug\net6.0\coin.AssemblyInfoInputs.cache
+C:\Users\rahul\source\repos\coin\coin\obj\Debug\net6.0\coin.AssemblyInfo.cs
+C:\Users\rahul\source\repos\coin\coin\obj\Debug\net6.0\coin.csproj.CoreCompileInputs.cache
+C:\Users\rahul\source\repos\coin\coin\bin\Debug\net6.0\coin.exe
+C:\Users\rahul\source\repos\coin\coin\bin\Debug\net6.0\coin.deps.json
+C:\Users\rahul\source\repos\coin\coin\bin\Debug\net6.0\coin.runtimeconfig.json
+C:\Users\rahul\source\repos\coin\coin\bin\Debug\net6.0\coin.dll
+C:\Users\rahul\source\repos\coin\coin\bin\Debug\net6.0\coin.pdb
+C:\Users\rahul\source\repos\coin\coin\obj\Debug\net6.0\coin.dll
+C:\Users\rahul\source\repos\coin\coin\obj\Debug\net6.0\refint\coin.dll
+C:\Users\rahul\source\repos\coin\coin\obj\Debug\net6.0\coin.pdb
+C:\Users\rahul\source\repos\coin\coin\obj\Debug\net6.0\coin.genruntimeconfig.cache
+C:\Users\rahul\source\repos\coin\coin\obj\Debug\net6.0\ref\coin.dll
